@@ -1,3 +1,3 @@
 # stepik_autotest_repo
-Reository for stepik homework
+Repsitory for stepik homework
 Typed some text here first time.
